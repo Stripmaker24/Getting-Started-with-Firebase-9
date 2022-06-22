@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-tutorial-69b2c": {
+      "hosting": {
+        "firebase-app": [
+          "fir-tutorial-69b2c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-tutorial-69b2c"
+  }
+}
